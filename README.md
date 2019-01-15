@@ -1,5 +1,5 @@
 # AIHack
-
+(Group Project)
 ## Briefing
 
 This is the training data needed for the California Socioeconomic Correlations challenge
