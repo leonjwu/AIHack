@@ -1,8 +1,14 @@
 # AIHack
-(Group Project - 24 hours - Overall Winners) - PLEASE READ  THE REPORT: AI_HACK.PDF
+(Group Project - 24 hours - Overall Winners)
+
+## INFO
+[FINAL REPORT](https://github.com/leonwu4951/AIHack/blob/master/AI_HACK.pdf)
+[FINAL PRESENTATION](https://github.com/leonwu4951/AIHack/blob/master/AI%20Hack%20Presentation.pptx)
+
+
 ## Briefing
 
-This is the training data needed for the California Socioeconomic Correlations challenge
+This is the training data needed for the California Socioeconomic Correlations challenge.
 
 This data is organised in the following way: 
 
