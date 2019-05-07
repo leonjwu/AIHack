@@ -1,7 +1,6 @@
 # AIHack
-(Group Project - 24 hours - Overall Winners)
+Group Project - 24 hours - Winners
 
-## INFO
 [FINAL REPORT](https://github.com/leonwu4951/AIHack/blob/master/AI_HACK.pdf)
 
 [FINAL PRESENTATION](https://github.com/leonwu4951/AIHack/blob/master/AI%20Hack%20Presentation.pptx)
