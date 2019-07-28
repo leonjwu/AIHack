@@ -3,9 +3,6 @@ Group Project - 24 hours - Winners
 
 [FINAL REPORT](https://github.com/leonwu4951/AIHack/blob/master/AI_HACK.pdf)
 
-[FINAL PRESENTATION](https://github.com/leonwu4951/AIHack/blob/master/AI%20Hack%20Presentation.pptx)
-
-
 ## Briefing
 
 This is the training data needed for the California Socioeconomic Correlations challenge.
@@ -27,3 +24,5 @@ short to long if you wish.
 [Data Source](https://www.census.gov/geo/maps-data/data/tiger.html)
 
 [Statistical Atlas](https://statisticalatlas.com/state/California/Overview)
+
+[FINAL PRESENTATION](https://github.com/leonwu4951/AIHack/blob/master/AI%20Hack%20Presentation.pptx)
