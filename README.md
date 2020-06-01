@@ -1,9 +1,9 @@
 # AIHack
 Group Project - 24 hours - Winners
 
-# [FINAL REPORT](https://github.com/leonwu4951/AIHack/blob/master/AI_HACK.pdf)
+# [LINK TO FINAL REPORT](https://github.com/leonwu4951/AIHack/blob/master/AI_HACK.pdf)
 
-
+## Poster:
 ![image](https://github.com/leonwu4951/AIHack/blob/master/poster.jpg)
 
 ## Briefing
