@@ -1,5 +1,5 @@
 # AIHack
-Group Project - 24 hours - Winners
+Group Project - 24 hours - Winners. Presented Project at Google Devfest 2019
 
 # [LINK TO FINAL REPORT](https://github.com/leonwu4951/AIHack/blob/master/AI_HACK.pdf)
 
