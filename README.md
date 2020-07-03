@@ -1,10 +1,10 @@
 # AIHack
 Group Project - 24 hours - Winners. Presented Project at Google Devfest 2019
 
-# [LINK TO FINAL REPORT](https://github.com/leonwu4951/AIHack/blob/master/AI_HACK.pdf)
+# [LINK TO FINAL REPORT](https://github.com/leonjwu/AIHack/blob/master/AI_HACK.pdf)
 
 ## Poster:
-![image](https://github.com/leonwu4951/AIHack/blob/master/poster.jpg)
+![image](https://github.com/leonjwu/AIHack/blob/master/poster.jpg)
 
 ## Briefing
 
@@ -28,4 +28,4 @@ short to long if you wish.
 
 [Statistical Atlas](https://statisticalatlas.com/state/California/Overview)
 
-[FINAL PRESENTATION](https://github.com/leonwu4951/AIHack/blob/master/AI%20Hack%20Presentation.pptx)
+[FINAL PRESENTATION](https://github.com/leonjwu/AIHack/blob/master/AI%20Hack%20Presentation.pptx)
